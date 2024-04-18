@@ -1,0 +1,69 @@
+body{
+    background-color: rgb(235, 213, 185);
+    text-align: center;
+}
+ol{
+    color: black;
+    font-size: 30px;
+    font-stretch: expanded;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+
+}
+ul{
+    color: rgb(66, 63, 61);
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 25px;
+    margin-bottom: 150px;
+
+}
+iframe{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px; 
+    height: 700px; 
+}
+.Header{
+    font-size: 75px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.Subheader{
+    font-size: 40px; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.Img{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+}
+.tableauPlaceholder{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    margin-bottom: 25px;
+}
+a{
+    font-size: 25px;
+}
+.headerdiv{
+    background-color: antiquewhite;
+    border-radius: 20px;  
+}
+.Div2{
+    border: 5px solid antiquewhite;
+    border-radius: 25px; 
+}
+.Anchor{
+    background-color: antiquewhite;
+    margin-left: auto;
+    margin-right: auto; 
+    width: fit-content;
+    padding: 10px;  
+    border-radius: 15px; 
+}
